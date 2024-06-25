@@ -1,0 +1,15 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cart-btn{
+    border: none;
+    background: none;
+}
+
+.cart-icon{
+    font-size: 30px;
+    color: black;
+}
